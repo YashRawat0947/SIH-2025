@@ -1,0 +1,402 @@
+{
+  "KMRL-001": {
+    "performance": {
+      "on_time_performance": 85.7,
+      "passenger_load_factor": 79.1,
+      "energy_efficiency": 4.21,
+      "service_reliability": 95.98
+    },
+    "recent_issues": {
+      "delays_count": 0,
+      "total_delay_minutes": 0,
+      "door_faults": 1,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.956830",
+    "data_quality": "fair"
+  },
+  "KMRL-002": {
+    "performance": {
+      "on_time_performance": 90.0,
+      "passenger_load_factor": 61.0,
+      "energy_efficiency": 4.19,
+      "service_reliability": 98.52
+    },
+    "recent_issues": {
+      "delays_count": 4,
+      "total_delay_minutes": 26,
+      "door_faults": 2,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.956851",
+    "data_quality": "excellent"
+  },
+  "KMRL-003": {
+    "performance": {
+      "on_time_performance": 90.1,
+      "passenger_load_factor": 65.5,
+      "energy_efficiency": 4.72,
+      "service_reliability": 97.72
+    },
+    "recent_issues": {
+      "delays_count": 1,
+      "total_delay_minutes": 8,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.956862",
+    "data_quality": "fair"
+  },
+  "KMRL-004": {
+    "performance": {
+      "on_time_performance": 92.9,
+      "passenger_load_factor": 92.5,
+      "energy_efficiency": 3.72,
+      "service_reliability": 95.9
+    },
+    "recent_issues": {
+      "delays_count": 3,
+      "total_delay_minutes": 10,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.956874",
+    "data_quality": "fair"
+  },
+  "KMRL-005": {
+    "performance": {
+      "on_time_performance": 86.5,
+      "passenger_load_factor": 78.4,
+      "energy_efficiency": 4.95,
+      "service_reliability": 96.15
+    },
+    "recent_issues": {
+      "delays_count": 1,
+      "total_delay_minutes": 6,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.956883",
+    "data_quality": "fair"
+  },
+  "KMRL-006": {
+    "performance": {
+      "on_time_performance": 93.3,
+      "passenger_load_factor": 93.3,
+      "energy_efficiency": 3.61,
+      "service_reliability": 98.97
+    },
+    "recent_issues": {
+      "delays_count": 0,
+      "total_delay_minutes": 0,
+      "door_faults": 1,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.956892",
+    "data_quality": "fair"
+  },
+  "KMRL-007": {
+    "performance": {
+      "on_time_performance": 91.5,
+      "passenger_load_factor": 83.5,
+      "energy_efficiency": 4.59,
+      "service_reliability": 96.92
+    },
+    "recent_issues": {
+      "delays_count": 4,
+      "total_delay_minutes": 29,
+      "door_faults": 0,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.956904",
+    "data_quality": "good"
+  },
+  "KMRL-008": {
+    "performance": {
+      "on_time_performance": 90.9,
+      "passenger_load_factor": 90.9,
+      "energy_efficiency": 3.67,
+      "service_reliability": 97.38
+    },
+    "recent_issues": {
+      "delays_count": 1,
+      "total_delay_minutes": 6,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.956914",
+    "data_quality": "good"
+  },
+  "KMRL-009": {
+    "performance": {
+      "on_time_performance": 87.8,
+      "passenger_load_factor": 80.8,
+      "energy_efficiency": 4.67,
+      "service_reliability": 97.96
+    },
+    "recent_issues": {
+      "delays_count": 1,
+      "total_delay_minutes": 7,
+      "door_faults": 2,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.956925",
+    "data_quality": "fair"
+  },
+  "KMRL-010": {
+    "performance": {
+      "on_time_performance": 87.3,
+      "passenger_load_factor": 64.1,
+      "energy_efficiency": 4.37,
+      "service_reliability": 99.43
+    },
+    "recent_issues": {
+      "delays_count": 2,
+      "total_delay_minutes": 12,
+      "door_faults": 1,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.956934",
+    "data_quality": "excellent"
+  },
+  "KMRL-011": {
+    "performance": {
+      "on_time_performance": 89.8,
+      "passenger_load_factor": 79.4,
+      "energy_efficiency": 3.64,
+      "service_reliability": 97.46
+    },
+    "recent_issues": {
+      "delays_count": 1,
+      "total_delay_minutes": 3,
+      "door_faults": 1,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.956943",
+    "data_quality": "excellent"
+  },
+  "KMRL-012": {
+    "performance": {
+      "on_time_performance": 88.0,
+      "passenger_load_factor": 76.8,
+      "energy_efficiency": 3.88,
+      "service_reliability": 95.53
+    },
+    "recent_issues": {
+      "delays_count": 5,
+      "total_delay_minutes": 29,
+      "door_faults": 0,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.956957",
+    "data_quality": "excellent"
+  },
+  "KMRL-013": {
+    "performance": {
+      "on_time_performance": 96.3,
+      "passenger_load_factor": 88.6,
+      "energy_efficiency": 4.85,
+      "service_reliability": 98.21
+    },
+    "recent_issues": {
+      "delays_count": 3,
+      "total_delay_minutes": 12,
+      "door_faults": 0,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.956967",
+    "data_quality": "excellent"
+  },
+  "KMRL-014": {
+    "performance": {
+      "on_time_performance": 85.6,
+      "passenger_load_factor": 94.5,
+      "energy_efficiency": 4.27,
+      "service_reliability": 98.4
+    },
+    "recent_issues": {
+      "delays_count": 1,
+      "total_delay_minutes": 9,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.956976",
+    "data_quality": "excellent"
+  },
+  "KMRL-015": {
+    "performance": {
+      "on_time_performance": 86.6,
+      "passenger_load_factor": 91.7,
+      "energy_efficiency": 4.05,
+      "service_reliability": 97.25
+    },
+    "recent_issues": {
+      "delays_count": 3,
+      "total_delay_minutes": 20,
+      "door_faults": 0,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.956986",
+    "data_quality": "fair"
+  },
+  "KMRL-016": {
+    "performance": {
+      "on_time_performance": 90.7,
+      "passenger_load_factor": 69.5,
+      "energy_efficiency": 3.68,
+      "service_reliability": 97.1
+    },
+    "recent_issues": {
+      "delays_count": 2,
+      "total_delay_minutes": 10,
+      "door_faults": 1,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.956997",
+    "data_quality": "good"
+  },
+  "KMRL-017": {
+    "performance": {
+      "on_time_performance": 85.0,
+      "passenger_load_factor": 79.3,
+      "energy_efficiency": 4.73,
+      "service_reliability": 96.44
+    },
+    "recent_issues": {
+      "delays_count": 4,
+      "total_delay_minutes": 23,
+      "door_faults": 0,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.957009",
+    "data_quality": "excellent"
+  },
+  "KMRL-018": {
+    "performance": {
+      "on_time_performance": 90.2,
+      "passenger_load_factor": 62.0,
+      "energy_efficiency": 5.12,
+      "service_reliability": 99.41
+    },
+    "recent_issues": {
+      "delays_count": 1,
+      "total_delay_minutes": 6,
+      "door_faults": 1,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.957021",
+    "data_quality": "fair"
+  },
+  "KMRL-019": {
+    "performance": {
+      "on_time_performance": 88.2,
+      "passenger_load_factor": 71.9,
+      "energy_efficiency": 4.25,
+      "service_reliability": 98.92
+    },
+    "recent_issues": {
+      "delays_count": 1,
+      "total_delay_minutes": 10,
+      "door_faults": 2,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.957031",
+    "data_quality": "excellent"
+  },
+  "KMRL-020": {
+    "performance": {
+      "on_time_performance": 87.9,
+      "passenger_load_factor": 81.1,
+      "energy_efficiency": 3.98,
+      "service_reliability": 99.06
+    },
+    "recent_issues": {
+      "delays_count": 4,
+      "total_delay_minutes": 28,
+      "door_faults": 0,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.957043",
+    "data_quality": "excellent"
+  },
+  "KMRL-021": {
+    "performance": {
+      "on_time_performance": 93.8,
+      "passenger_load_factor": 82.0,
+      "energy_efficiency": 3.72,
+      "service_reliability": 96.7
+    },
+    "recent_issues": {
+      "delays_count": 5,
+      "total_delay_minutes": 27,
+      "door_faults": 1,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.957054",
+    "data_quality": "fair"
+  },
+  "KMRL-022": {
+    "performance": {
+      "on_time_performance": 86.6,
+      "passenger_load_factor": 70.1,
+      "energy_efficiency": 4.64,
+      "service_reliability": 96.9
+    },
+    "recent_issues": {
+      "delays_count": 1,
+      "total_delay_minutes": 7,
+      "door_faults": 1,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.957064",
+    "data_quality": "excellent"
+  },
+  "KMRL-023": {
+    "performance": {
+      "on_time_performance": 89.2,
+      "passenger_load_factor": 66.3,
+      "energy_efficiency": 4.53,
+      "service_reliability": 97.66
+    },
+    "recent_issues": {
+      "delays_count": 2,
+      "total_delay_minutes": 11,
+      "door_faults": 2,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.957101",
+    "data_quality": "good"
+  },
+  "KMRL-024": {
+    "performance": {
+      "on_time_performance": 87.3,
+      "passenger_load_factor": 91.8,
+      "energy_efficiency": 4.78,
+      "service_reliability": 99.16
+    },
+    "recent_issues": {
+      "delays_count": 3,
+      "total_delay_minutes": 14,
+      "door_faults": 1,
+      "mechanical_issues": 0
+    },
+    "last_updated": "2025-09-13T10:21:23.957114",
+    "data_quality": "excellent"
+  },
+  "KMRL-025": {
+    "performance": {
+      "on_time_performance": 88.5,
+      "passenger_load_factor": 86.3,
+      "energy_efficiency": 4.58,
+      "service_reliability": 95.49
+    },
+    "recent_issues": {
+      "delays_count": 5,
+      "total_delay_minutes": 27,
+      "door_faults": 0,
+      "mechanical_issues": 1
+    },
+    "last_updated": "2025-09-13T10:21:23.957125",
+    "data_quality": "good"
+  }
+}

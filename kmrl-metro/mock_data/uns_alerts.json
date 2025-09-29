@@ -1,0 +1,396 @@
+{
+  "KMRL-001": [
+    {
+      "alert_id": "UNS-467638",
+      "type": "mechanical",
+      "severity": "high",
+      "message": "Critical mechanical fault detected",
+      "timestamp": "2025-09-13T07:21:23.956224",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": false
+    }
+  ],
+  "KMRL-002": [
+    {
+      "alert_id": "UNS-619700",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 5 minutes",
+      "timestamp": "2025-09-12T20:21:23.956257",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-235102",
+      "type": "mechanical",
+      "severity": "high",
+      "message": "Critical mechanical fault detected",
+      "timestamp": "2025-09-11T11:21:23.956272",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-501757",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 7 minutes",
+      "timestamp": "2025-09-12T21:21:23.956285",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": false
+    }
+  ],
+  "KMRL-003": [
+    {
+      "alert_id": "UNS-176375",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 2 minutes",
+      "timestamp": "2025-09-12T07:21:23.956302",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "station",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-411583",
+      "type": "electrical",
+      "severity": "high",
+      "message": "Major electrical system fault",
+      "timestamp": "2025-09-12T15:21:23.956317",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": false
+    }
+  ],
+  "KMRL-004": [
+    {
+      "alert_id": "UNS-541546",
+      "type": "electrical",
+      "severity": "high",
+      "message": "Major electrical system fault",
+      "timestamp": "2025-09-12T21:21:23.956331",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": true
+    }
+  ],
+  "KMRL-005": [
+    {
+      "alert_id": "UNS-180953",
+      "type": "mechanical",
+      "severity": "high",
+      "message": "Critical mechanical fault detected",
+      "timestamp": "2025-09-12T02:21:23.956346",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": true
+    }
+  ],
+  "KMRL-006": [
+    {
+      "alert_id": "UNS-619096",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 7 minutes",
+      "timestamp": "2025-09-11T16:21:23.956363",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": false
+    }
+  ],
+  "KMRL-007": [],
+  "KMRL-008": [],
+  "KMRL-009": [
+    {
+      "alert_id": "UNS-829946",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 2 minutes",
+      "timestamp": "2025-09-12T04:21:23.956383",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": false
+    }
+  ],
+  "KMRL-010": [],
+  "KMRL-011": [],
+  "KMRL-012": [],
+  "KMRL-013": [
+    {
+      "alert_id": "UNS-792373",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 9 minutes",
+      "timestamp": "2025-09-12T19:21:23.956407",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": true
+    }
+  ],
+  "KMRL-014": [
+    {
+      "alert_id": "UNS-802344",
+      "type": "door_fault",
+      "severity": "medium",
+      "message": "Door operation fault on car 2",
+      "timestamp": "2025-09-11T14:21:23.956422",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": true
+    }
+  ],
+  "KMRL-015": [],
+  "KMRL-016": [
+    {
+      "alert_id": "UNS-367687",
+      "type": "mechanical",
+      "severity": "medium",
+      "message": "Mechanical system requires attention",
+      "timestamp": "2025-09-11T10:21:23.956441",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-149503",
+      "type": "electrical",
+      "severity": "high",
+      "message": "Major electrical system fault",
+      "timestamp": "2025-09-11T19:21:23.956453",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-547989",
+      "type": "electrical",
+      "severity": "high",
+      "message": "Major electrical system fault",
+      "timestamp": "2025-09-12T19:21:23.956466",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-646856",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 4 minutes",
+      "timestamp": "2025-09-12T21:21:23.956480",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": false
+    }
+  ],
+  "KMRL-017": [
+    {
+      "alert_id": "UNS-983099",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 1 minutes",
+      "timestamp": "2025-09-11T11:21:23.956496",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "depot",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-915063",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 1 minutes",
+      "timestamp": "2025-09-12T00:21:23.956508",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "station",
+      "technician_assigned": false
+    }
+  ],
+  "KMRL-018": [
+    {
+      "alert_id": "UNS-234796",
+      "type": "electrical",
+      "severity": "medium",
+      "message": "Electrical system anomaly detected",
+      "timestamp": "2025-09-13T05:21:23.956525",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "route",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-147635",
+      "type": "electrical",
+      "severity": "medium",
+      "message": "Electrical system anomaly detected",
+      "timestamp": "2025-09-13T06:21:23.956539",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": true
+    }
+  ],
+  "KMRL-019": [
+    {
+      "alert_id": "UNS-744610",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 3 minutes",
+      "timestamp": "2025-09-13T01:21:23.956555",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-497848",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 6 minutes",
+      "timestamp": "2025-09-12T01:21:23.956567",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": true
+    }
+  ],
+  "KMRL-020": [],
+  "KMRL-021": [
+    {
+      "alert_id": "UNS-176068",
+      "type": "electrical",
+      "severity": "medium",
+      "message": "Electrical system anomaly detected",
+      "timestamp": "2025-09-11T12:21:23.956584",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": true
+    }
+  ],
+  "KMRL-022": [
+    {
+      "alert_id": "UNS-249152",
+      "type": "hvac_fault",
+      "severity": "medium",
+      "message": "HVAC system malfunction detected",
+      "timestamp": "2025-09-12T08:21:23.956601",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "station",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-802854",
+      "type": "mechanical",
+      "severity": "medium",
+      "message": "Mechanical system requires attention",
+      "timestamp": "2025-09-12T23:21:23.956616",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "depot",
+      "technician_assigned": true
+    }
+  ],
+  "KMRL-023": [
+    {
+      "alert_id": "UNS-227327",
+      "type": "delay",
+      "severity": "medium",
+      "message": "Service delay detected - 9 minutes",
+      "timestamp": "2025-09-12T13:21:23.956635",
+      "acknowledged": false,
+      "resolved": true,
+      "location": "depot",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-816733",
+      "type": "electrical",
+      "severity": "medium",
+      "message": "Electrical system anomaly detected",
+      "timestamp": "2025-09-11T12:21:23.956647",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "station",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-467939",
+      "type": "hvac_fault",
+      "severity": "low",
+      "message": "HVAC efficiency below optimal",
+      "timestamp": "2025-09-13T01:21:23.956692",
+      "acknowledged": true,
+      "resolved": true,
+      "location": "station",
+      "technician_assigned": false
+    },
+    {
+      "alert_id": "UNS-507803",
+      "type": "mechanical",
+      "severity": "high",
+      "message": "Critical mechanical fault detected",
+      "timestamp": "2025-09-12T15:21:23.956717",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "depot",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-194788",
+      "type": "hvac_fault",
+      "severity": "medium",
+      "message": "HVAC system malfunction detected",
+      "timestamp": "2025-09-12T03:21:23.956731",
+      "acknowledged": false,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": true
+    }
+  ],
+  "KMRL-024": [],
+  "KMRL-025": [
+    {
+      "alert_id": "UNS-788446",
+      "type": "door_fault",
+      "severity": "low",
+      "message": "Door sensor calibration needed",
+      "timestamp": "2025-09-11T15:21:23.956751",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": true
+    },
+    {
+      "alert_id": "UNS-380915",
+      "type": "delay",
+      "severity": "low",
+      "message": "Minor schedule adjustment - 2 minutes",
+      "timestamp": "2025-09-11T17:21:23.956764",
+      "acknowledged": true,
+      "resolved": false,
+      "location": "route",
+      "technician_assigned": true
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "KMRL-001": [
+    {
+      "delay_id": "DEL-85391",
+      "delay_minutes": 13,
+      "reason": "crowd_control",
+      "station": "Aluva",
+      "timestamp": "2025-09-13T00:21:23.955569",
+      "severity": "medium",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-10605",
+      "delay_minutes": 11,
+      "reason": "signal_delay",
+      "station": "Aluva",
+      "timestamp": "2025-09-12T14:21:23.955603",
+      "severity": "medium",
+      "resolved": true
+    }
+  ],
+  "KMRL-002": [
+    {
+      "delay_id": "DEL-90174",
+      "delay_minutes": 3,
+      "reason": "track_maintenance",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-13T01:21:23.955614",
+      "severity": "low",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-16112",
+      "delay_minutes": 3,
+      "reason": "crowd_control",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-13T03:21:23.955622",
+      "severity": "low",
+      "resolved": false
+    }
+  ],
+  "KMRL-003": [],
+  "KMRL-004": [
+    {
+      "delay_id": "DEL-33846",
+      "delay_minutes": 11,
+      "reason": "door_fault",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-12T13:21:23.955631",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-90802",
+      "delay_minutes": 5,
+      "reason": "weather",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-12T17:21:23.955639",
+      "severity": "low",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-63029",
+      "delay_minutes": 5,
+      "reason": "passenger_boarding",
+      "station": "Edappally",
+      "timestamp": "2025-09-13T00:21:23.955647",
+      "severity": "low",
+      "resolved": false
+    }
+  ],
+  "KMRL-005": [
+    {
+      "delay_id": "DEL-33391",
+      "delay_minutes": 1,
+      "reason": "schedule_adjustment",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-13T06:21:23.955656",
+      "severity": "low",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-82727",
+      "delay_minutes": 5,
+      "reason": "schedule_adjustment",
+      "station": "Changampuzha Park",
+      "timestamp": "2025-09-13T10:21:23.955664",
+      "severity": "low",
+      "resolved": false
+    }
+  ],
+  "KMRL-006": [
+    {
+      "delay_id": "DEL-64601",
+      "delay_minutes": 2,
+      "reason": "track_maintenance",
+      "station": "Edappally",
+      "timestamp": "2025-09-13T08:21:23.955674",
+      "severity": "low",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-76728",
+      "delay_minutes": 1,
+      "reason": "schedule_adjustment",
+      "station": "Aluva",
+      "timestamp": "2025-09-13T05:21:23.955682",
+      "severity": "low",
+      "resolved": true
+    }
+  ],
+  "KMRL-007": [],
+  "KMRL-008": [
+    {
+      "delay_id": "DEL-20639",
+      "delay_minutes": 2,
+      "reason": "signal_delay",
+      "station": "Changampuzha Park",
+      "timestamp": "2025-09-12T20:21:23.955690",
+      "severity": "low",
+      "resolved": false
+    }
+  ],
+  "KMRL-009": [
+    {
+      "delay_id": "DEL-85421",
+      "delay_minutes": 8,
+      "reason": "track_maintenance",
+      "station": "Edappally",
+      "timestamp": "2025-09-13T03:21:23.955698",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-83141",
+      "delay_minutes": 4,
+      "reason": "crowd_control",
+      "station": "Changampuzha Park",
+      "timestamp": "2025-09-13T04:21:23.955705",
+      "severity": "low",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-79598",
+      "delay_minutes": 3,
+      "reason": "signal_delay",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-12T20:21:23.955712",
+      "severity": "low",
+      "resolved": false
+    }
+  ],
+  "KMRL-010": [
+    {
+      "delay_id": "DEL-62720",
+      "delay_minutes": 13,
+      "reason": "track_maintenance",
+      "station": "Kalamassery",
+      "timestamp": "2025-09-13T10:21:23.955719",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-94700",
+      "delay_minutes": 9,
+      "reason": "track_maintenance",
+      "station": "Edappally",
+      "timestamp": "2025-09-13T10:21:23.955725",
+      "severity": "medium",
+      "resolved": true
+    }
+  ],
+  "KMRL-011": [],
+  "KMRL-012": [
+    {
+      "delay_id": "DEL-74583",
+      "delay_minutes": 2,
+      "reason": "crowd_control",
+      "station": "Changampuzha Park",
+      "timestamp": "2025-09-13T01:21:23.955734",
+      "severity": "low",
+      "resolved": true
+    }
+  ],
+  "KMRL-013": [],
+  "KMRL-014": [
+    {
+      "delay_id": "DEL-43221",
+      "delay_minutes": 3,
+      "reason": "signal_delay",
+      "station": "Changampuzha Park",
+      "timestamp": "2025-09-13T09:21:23.955741",
+      "severity": "low",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-42742",
+      "delay_minutes": 2,
+      "reason": "schedule_adjustment",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-12T14:21:23.955749",
+      "severity": "low",
+      "resolved": true
+    }
+  ],
+  "KMRL-015": [
+    {
+      "delay_id": "DEL-76134",
+      "delay_minutes": 1,
+      "reason": "technical_issue",
+      "station": "Kalamassery",
+      "timestamp": "2025-09-13T00:21:23.955758",
+      "severity": "low",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-22194",
+      "delay_minutes": 13,
+      "reason": "technical_issue",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-13T05:21:23.955765",
+      "severity": "medium",
+      "resolved": false
+    }
+  ],
+  "KMRL-016": [
+    {
+      "delay_id": "DEL-58244",
+      "delay_minutes": 4,
+      "reason": "schedule_adjustment",
+      "station": "Edappally",
+      "timestamp": "2025-09-13T10:21:23.955772",
+      "severity": "low",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-11718",
+      "delay_minutes": 10,
+      "reason": "weather",
+      "station": "Kalamassery",
+      "timestamp": "2025-09-13T00:21:23.955779",
+      "severity": "medium",
+      "resolved": false
+    }
+  ],
+  "KMRL-017": [
+    {
+      "delay_id": "DEL-70579",
+      "delay_minutes": 15,
+      "reason": "crowd_control",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-12T23:21:23.955787",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-24871",
+      "delay_minutes": 14,
+      "reason": "door_fault",
+      "station": "Kalamassery",
+      "timestamp": "2025-09-12T20:21:23.955793",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-29393",
+      "delay_minutes": 15,
+      "reason": "track_maintenance",
+      "station": "Aluva",
+      "timestamp": "2025-09-12T23:21:23.955800",
+      "severity": "medium",
+      "resolved": true
+    }
+  ],
+  "KMRL-018": [
+    {
+      "delay_id": "DEL-99974",
+      "delay_minutes": 4,
+      "reason": "technical_issue",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-13T01:21:23.955808",
+      "severity": "low",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-71167",
+      "delay_minutes": 8,
+      "reason": "signal_delay",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-12T14:21:23.955815",
+      "severity": "medium",
+      "resolved": false
+    },
+    {
+      "delay_id": "DEL-44394",
+      "delay_minutes": 2,
+      "reason": "crowd_control",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-12T18:21:23.955821",
+      "severity": "low",
+      "resolved": true
+    }
+  ],
+  "KMRL-019": [
+    {
+      "delay_id": "DEL-86878",
+      "delay_minutes": 2,
+      "reason": "door_fault",
+      "station": "MG Road",
+      "timestamp": "2025-09-12T13:21:23.955828",
+      "severity": "low",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-53443",
+      "delay_minutes": 13,
+      "reason": "crowd_control",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-13T05:21:23.955834",
+      "severity": "medium",
+      "resolved": false
+    }
+  ],
+  "KMRL-020": [
+    {
+      "delay_id": "DEL-22774",
+      "delay_minutes": 11,
+      "reason": "track_maintenance",
+      "station": "Aluva",
+      "timestamp": "2025-09-12T10:21:23.955841",
+      "severity": "medium",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-30220",
+      "delay_minutes": 7,
+      "reason": "schedule_adjustment",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-12T11:21:23.955846",
+      "severity": "medium",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-63790",
+      "delay_minutes": 3,
+      "reason": "crowd_control",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-13T04:21:23.955852",
+      "severity": "low",
+      "resolved": false
+    }
+  ],
+  "KMRL-021": [
+    {
+      "delay_id": "DEL-46745",
+      "delay_minutes": 14,
+      "reason": "signal_delay",
+      "station": "Aluva",
+      "timestamp": "2025-09-12T17:21:23.955879",
+      "severity": "medium",
+      "resolved": false
+    }
+  ],
+  "KMRL-022": [
+    {
+      "delay_id": "DEL-38775",
+      "delay_minutes": 4,
+      "reason": "schedule_adjustment",
+      "station": "Edappally",
+      "timestamp": "2025-09-12T16:21:23.955887",
+      "severity": "low",
+      "resolved": true
+    },
+    {
+      "delay_id": "DEL-81943",
+      "delay_minutes": 4,
+      "reason": "weather",
+      "station": "Kalamassery",
+      "timestamp": "2025-09-12T23:21:23.955892",
+      "severity": "low",
+      "resolved": true
+    }
+  ],
+  "KMRL-023": [
+    {
+      "delay_id": "DEL-18198",
+      "delay_minutes": 14,
+      "reason": "crowd_control",
+      "station": "MG Road",
+      "timestamp": "2025-09-12T20:21:23.955928",
+      "severity": "medium",
+      "resolved": false
+    }
+  ],
+  "KMRL-024": [
+    {
+      "delay_id": "DEL-37198",
+      "delay_minutes": 6,
+      "reason": "door_fault",
+      "station": "Palarivattom",
+      "timestamp": "2025-09-12T23:21:23.955938",
+      "severity": "medium",
+      "resolved": true
+    }
+  ],
+  "KMRL-025": [
+    {
+      "delay_id": "DEL-61577",
+      "delay_minutes": 15,
+      "reason": "passenger_boarding",
+      "station": "JLN Stadium",
+      "timestamp": "2025-09-13T08:21:23.955946",
+      "severity": "medium",
+      "resolved": true
+    }
+  ]
+}
