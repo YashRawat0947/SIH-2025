@@ -88,5 +88,9 @@ async function startServer() {
     process.exit(1);
   }
 }
+// Example route
+app.get("/", (req, res) => {
+  res.json({ message: "Backend is running on Vercel 🚀" });
+});
 
 startServer();
