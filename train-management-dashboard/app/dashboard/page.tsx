@@ -253,8 +253,9 @@ export default function DashboardPage() {
                     cy="50%"
                     labelLine={false}
                     label={({ name, value, index }) => {
-                      const total = data.statusDistribution.reduce((sum, entry) => sum + entry.value, 0)
-                      const percent = total > 0 ? (value / total) * 100 : 0
+                      const total = data.statusDistribution.reduce((sum, entry) => sum + (typeof entry.value === "number" ? entry.value : 0), 0)
+                      const safeValue = typeof value === "number" ? value : 0
+                      const percent = total > 0 ? (safeValue / total) * 100 : 0
                       return `${name} ${percent.toFixed(0)}%`
                     }}
                     outerRadius={80}
